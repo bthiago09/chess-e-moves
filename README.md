@@ -1,3 +1,3 @@
-<h1> Hi, I'm Ryuka </h1>
-<p> the project was created during the nlw event of the origin track </p>
-<img src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif" alt="gif cat" width="350">
+<h1> Projeto de escola </h1>
+<p> um site sobre xadrez, com tudo que a direito a um junior </p>
+<img src="https://drive.google.com/file/d/1a9H0FqGULYO9uhHBH2d5SvUCLBCfZxR3/view?usp=sharing" alt="gif cat" width="350">
