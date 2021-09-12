@@ -49,6 +49,11 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+iframe {
+  height: 31.25rem;
+  width: 100%;
+}
+
 .title {
   font: 700 var(--title-font-size) var(--title-font);
   color: var(--title-color);
