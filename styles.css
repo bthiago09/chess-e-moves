@@ -20,7 +20,7 @@ img {
 :root {
   --header-height: 4.5rem;
 
-  --hue: 201;
+  --hue: 0;
 
   --base-color: hsla(var(--hue) 100% 36%);
   --base-color-second: hsl(var(--hue) 65% 88%);
@@ -245,7 +245,7 @@ nav.show div.icon-x {
 }
 
 .logo {
-  font: 700 1.31rem 'Poppins', sans-serif;
+  font: 700 1.5rem 'Poppins', sans-serif;
   color: var(--title-color);
 }
 
@@ -484,6 +484,10 @@ nav.show div.icon-x {
 
 #contact ul li i {
   color: var(--base-color);
+}
+
+.column {
+  width: 126px;
 }
 
 footer {
